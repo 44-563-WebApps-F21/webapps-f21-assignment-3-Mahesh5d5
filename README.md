@@ -1,3 +1,3 @@
 # WebApps-F21-Assignment-3
 Assignment 3 - Basic HTML
-Hosted At ![https://github.com/44-563-WebApps-F21/webapps-f21-assignment-3-Mahesh5d5/tree/main]  (Followed by link)
+Hosted At ![https://44-563-webapps-f21.github.io/webapps-f21-assignment-3-Mahesh5d5/]  (Followed by link)
